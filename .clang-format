@@ -1,0 +1,7 @@
+BasedOnStyle: Google
+
+AlignAfterOpenBracket: AlwaysBreak
+AllowAllArgumentsOnNextLine: false
+BinPackArguments: false
+ColumnLimit: 79
+IndentWidth: 4
